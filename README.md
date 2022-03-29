@@ -7,6 +7,7 @@ section: css 143b <br/>
 program: grocery store manager <br/>
 
 ## description
+This was my final project for CSS143 class at UWB! <br/>
 This program simulates a grocery store management system, <br/>
 with the abilities to stock items in an inventory, process orders and <br/>
 update the inventory to reflect all changes. You may also add items to the restock list and <br/>
